@@ -1,2 +1,2 @@
 # MusicBeast( https://vasudevsp.github.io/MusicBeast/)
-https://kit-cygnet.cyclic.app
+https://careful-sweater-eel.cyclic.app/
